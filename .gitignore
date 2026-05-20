@@ -1,0 +1,5 @@
+*.dmp
+*.zip
+*.kdbx
+keeper_rsa
+keepass-password-dumper/
